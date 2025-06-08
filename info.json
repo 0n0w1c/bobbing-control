@@ -1,7 +1,7 @@
 {
     "name": "bobbing-control",
-    "version": "0.0.1",
-    "title": "Bobbing Control",
+    "version": "0.0.2",
+    "title": "Spidertron Bobbing Control",
     "factorio_version": "2.0",
     "author": "0n0w1c",
     "description": "Adjust the torso bobbing rate of Spidertrons and similar modded entities.",
