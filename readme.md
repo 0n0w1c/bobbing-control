@@ -2,6 +2,8 @@
 
 Adds a startup setting to adjust the torso bobbing rate of Spidertrons and similar modded entities.
 
+Only modifies entities that do not have a custom value set.
+
 ---
 
 | Description      | Value        |
