@@ -4,7 +4,7 @@ Date: 07.06.2025
   Bugfixes:
     - None
   Changes:
-    - Changed the mod name to Spidertron Bobbing Control
+    - Changed the mod title to Spidertron Bobbing Control
     - Increased the maxiumum torso bobbing rate from 3 to 5
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
